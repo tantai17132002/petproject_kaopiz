@@ -1,3 +1,5 @@
+Node.js v20.18.0
+
 A. Cai dat cho development: 
 I. Tạo base dự án.
 1. Cài đặt project:
